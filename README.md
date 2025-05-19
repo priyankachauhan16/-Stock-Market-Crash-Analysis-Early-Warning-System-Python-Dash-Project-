@@ -87,13 +87,13 @@ Deploy as a cloud app using Heroku or Streamlit Cloud
 Enable email or SMS alerts based on early warning triggers
 
 🖼️ Project Screenshot
-
 Screenshort(38).png
+
 Screenshot(39).png
 
 💾 How to Run This Project
 
-On terminal write python stock-Analysis.py
+On terminal write python Stock-Analysis.py
 
 📬 Contact
 
