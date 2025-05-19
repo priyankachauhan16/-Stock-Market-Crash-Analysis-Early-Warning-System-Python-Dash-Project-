@@ -55,7 +55,8 @@ Enable email or SMS alerts based on early warning triggers
 Screenshort
 
 💾 How to Run This Project
-On terminal write python app.py
+
+On terminal write python stock-Analysis.py
 
 📬 Contact
 Priyanka Chauhan
