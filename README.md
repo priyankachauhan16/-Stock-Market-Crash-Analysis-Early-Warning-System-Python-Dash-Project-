@@ -5,11 +5,17 @@
 This project presents an interactive Stock Market Dashboard built using Python, Dash, and Plotly, focusing on historical Sensex data. The dashboard visualizes key financial metrics such as market crashes, drawdowns, and future price predictions using machine learning, offering a powerful tool for investors and analysts to understand trends and detect risk signals.
 
 🎯 Project Objectives
+
 The main goals of this project are to:
+
 Detect daily market crashes based on significant negative returns.
+
 Visualize market drawdowns over time.
+
 Simulate a 2025 early warning system using volatility and trend indicators.
+
 Build a Random Forest model to predict future Sensex prices.
+
 Provide an interactive dashboard to explore these insights in real-time.
 
 📁 Dataset Description
